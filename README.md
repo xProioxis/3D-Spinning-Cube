@@ -1,3 +1,3 @@
-# Making a Spinning Cube using only 2D Manual Graphics
+# Making a Spinning 3D Cube using only SDL2 2D Graphics
 
 ![myfile](https://github.com/xProioxis/ManualGraphics/blob/master/spinnycube.gif)
